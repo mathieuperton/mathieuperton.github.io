@@ -8,24 +8,30 @@ layout: tab
     <img src="{{ site.baseurl }}/images/earth.jpg">
 </div>
 <div class="col-12 col-sm-8">
-    <p>My research aims to gain a better understanding of the Earth via a combination of observational and interpretational work on seismic data. I am interested in imaging the Earth at every scale - i.e., from the shallow sub-surface to the deepest Earth interfaces such as the core mantle boundary -, understanding volcanic and hydrothermal systems and predicting ground motion caused by earthquakes. I am also interested in a newborn seismological method called Distributed Acoustic Sensing (DAS) that turns fiber optic cables into thousands of seismic sensors by injecting laser pulses at one end of a cable and analyzing the backscattered light. I develop capabilities for extracting high-density seismic measurements from these fiber networks, and demonstrate their use to evaluate seismic hazard in different areas. More broadly, the integration of my research helps mitigating the risks that certain and inevitable natural hazards pose to human populations.</p>
+    <p>I'm researcher at Engineering Institute (Instituto de Ingenieria) of UNAM at Mexico city in seismology and in laser-ultrasonic, trying to work as much the theoretical  as the practical aspects. My topics of interest are the modeling of the generation and propagation of mechanical waves through semi-analytical or finite element methods, the recovery of Green functions from ambient noise and its application to the characterization of the subsoil at several scale (city, geothermal fields, volcanic, earth crust or even crust mantle boundary) and the non-destructive characterization of materials. More recently, I focus on a newborn seismological method called Distributed Acoustic Sensing (DAS) that uses fiber optic cables as transmisser of information and as sensors, mainly to better assess the seismic hazard in urban area. I have been teaching classes related to physics and seismic hazard for undergraduate and master levels at the ENES of Morelia and now I teach seismology and elastodynamic for master students in Earth Sciences school at UNAM.</p>
 
 <h5>Education and Employments</h5>
-<ul><li>Project Researcher, 2019, Earthquake Research Institute, The University of Tokyo</li>
-<li>Postdoctoral Scholar, 2015-2019, Stanford University, California</li>
-<li>Ph.D in Geophysics, 2012-2015, Universidad Nacional Autónoma de México, Mexico</li>
-<li>M.Sc. in Earth Sciences, Université Libre de Bruxelles, Belgium</li></ul>
+<ul>
+    <li>Researcher, 2019, Instituto de Ingeniería, UNAM CDMX, Mexico </li>
+    <li>Catedra Conacyt, 2015-2019, Instituto de Geofisica Unidad Morelia, UNAM, Mexico</li>
+    <li>Associate researcher, 2013-2015,  Instituto de Ingeniería, CDMX UNAM, Mexico</li>
+    <li>Associate researcher, 2009-2012,  IMI-CNRC, Boucherville, Canada</li>
+    <li>Associate researcher, 2007-2009,  Instituto de Ingeniería, CDMX UNAM, Mexico</li>
+    <li>Ph.D in Mechanics, 2003-2006, Bordeaux1 University, France</li></ul>
 <h5>Research Interests</h5>
-<ul><li>Distributed Acoustic Sensing (fiber optic) seismology</li>
-<li>Volcanology: magma plumbing system imaging, volcano monitoring</li>
-<li>Earth Structure: Shallow (few meters) and deep (core mantle boundary) imaging, anisotropy</li>
-<li>Ground motion prediction</li>
-<li>Earthquake detection</li></ul>
+<ul>
+    <li>Elastic and Schock Wave Simulation</li>
+    <li>Distributed Acoustic Sensing (fiber optic) seismology</li>
+    <li>Volcanology: magma plumbing system imaging, volcano monitoring</li>
+    <li>Earth Structure: Shallow (few meters) and deep (core mantle boundary) imaging, anisotropy</li>
+    <li>Non destructive characterization/evaluation of material</li>
+</ul>
 <h5>Methods</h5>
-<ul><li>Ambient seismic field correlations, Correlation of Coda of Correlations (C3), auto-correlations</li>
-<li>H/V spectral ratio following a diffuse field approach (directional energy densities)</li>
-<li>Fingerprint And Similarity Thresholding (FAST) / Template Matching </li>
-<li>Large-N seismology</li>
-<li>Distributed Acoustinc Sensing</li></ul>
+<ul>
+    <li>Ambient seismic field correlations, Correlation of Coda of Correlations (C3), auto-correlations</li>
+    <li>H/V spectral ratio following a diffuse field approach (directional energy densities)</li>
+    <li>Distributed Acoustinc Sensing</li>
+    <li>Laser Ultrasonics</li>
+</ul>
 </div>
 </div>
