@@ -3,12 +3,9 @@ title: About
 layout: tab
 ---
 
-<div class="row content-row">
-<div class="col-12 col-sm-4">
-    <img src="{{ site.baseurl }}/images/earth.jpg">
-</div>
-<div class="col-12 col-sm-8">
-    <p>I'm researcher at Engineering Institute (Instituto de Ingenieria) of UNAM at Mexico city in seismology and in laser-ultrasonic, trying to work as much the theoretical  as the practical aspects. My topics of interest are the modeling of the generation and propagation of mechanical waves through semi-analytical or finite element methods, the recovery of Green functions from ambient noise and its application to the characterization of the subsoil at several scale (city, geothermal fields, volcanic, earth crust or even crust mantle boundary) and the non-destructive characterization of materials. More recently, I focus on a newborn seismological method called Distributed Acoustic Sensing (DAS) that uses fiber optic cables as transmisser of information and as sensors, mainly to better assess the seismic hazard in urban area. I have been teaching classes related to physics and seismic hazard for undergraduate and master levels at the ENES of Morelia and now I teach seismology and elastodynamic for master students in Earth Sciences school at UNAM.</p>
+
+<div>
+    <p style="text-align:justify;">I'm researcher at Engineering Institute (Instituto de Ingenieria) of UNAM at Mexico city in seismology and in laser-ultrasonic, trying to work as much the theoretical  as the practical aspects. My topics of interest are the modeling of the generation and propagation of mechanical waves through semi-analytical or finite element methods, the recovery of Green functions from ambient noise and its application to the characterization of the subsoil at several scale (city, geothermal fields, volcanic, earth crust or even crust mantle boundary) and the non-destructive characterization of materials. More recently, I focus on a newborn seismological method called Distributed Acoustic Sensing (DAS) that uses fiber optic cables as transmisser of information and as sensors, mainly to better assess the seismic hazard in urban area. I have been teaching classes related to physics and seismic hazard for undergraduate and master levels at the ENES of Morelia and now I teach seismology and elastodynamic for master students in Earth Sciences school at UNAM.</p>
 
 <h5>Education and Employments</h5>
 <ul>
@@ -33,5 +30,4 @@ layout: tab
     <li>Distributed Acoustinc Sensing</li>
     <li>Laser Ultrasonics</li>
 </ul>
-</div>
 </div>
