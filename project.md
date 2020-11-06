@@ -19,7 +19,7 @@ Seismic waves, their velocities and attenuation tell us about variable states of
 <div class="col-12 col-sm-8">
     <h3>Fiber Optic Seismology</h3>
     <p><span class="bold">Goal:</span> Distributed Acoustic Sensing (DAS) can transform the already existing underground network of fiber-optic cables essential to modern life as arrays of thousands of seismometers  with a measurement density on the order of meters and so, in a cost-effective way. DAS relies on coherent optical time-domain reflectometry to precisely measure the amplitude and phase of vibrations along a fiber. This new type of data for seismologists is offering many new opportunities for research. We want to explore its potential for ultra-high resolution imaging, microzonation in urban areas and possibly for landlside and volcano monitoring. (Figure is from Lelouch et al., 2019 <a href="https://drive.google.com/open?id=1bzbStvLJYwzY00gzEFlIdumZZ4QQ6MH6" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>).   </p>
-  <p><span class="bold">Main collaborator:</span> Zack Spica <a href=https://scholar.google.be/citations?user=OO3GY2YAAAAJ&hl=en" target="_blank" class="btn btn-light"><i class="fab fa-google"></i> Scholar</a></p>
+  <p><span class="bold">Main collaborator:</span> Zack Spica <a href="https://scholar.google.be/citations?user=OO3GY2YAAAAJ&hl=en" target="_blank" class="btn btn-light"><i class="fab fa-google"></i> Scholar</a></p>
 </div>
 </div>
 <hr>
@@ -46,7 +46,7 @@ Seismic waves, their velocities and attenuation tell us about variable states of
 </div>
 <div class="col-12 col-sm-8">
     <h3>Volcanology</h3>
-    The characterization of volcanic-reservoir geometry and location at depth is of major importance in monitoring and understanding volcanic unrest. We currently develop new methods to better assess in particular the depth of these reservoir trhough the evaluation of the anisotropy and of the attenuation. How magmas move in crust during swarm in monogenetic field in Michoacán, or in the conduct before the explosion (Stromboli) are key points of my current work. I am now involved in the GEMEX project. <p><span class="bold"> the GEMEX project</span>  <a href=http://www.gemex-h2020.eu/index.php?lang=en" target="_blank" class="btn btn-light"></a></p>
+    The characterization of volcanic-reservoir geometry and location at depth is of major importance in monitoring and understanding volcanic unrest. We currently develop new methods to better assess in particular the depth of these reservoir trhough the evaluation of the anisotropy and of the attenuation. How magmas move in crust during swarm in monogenetic field in Michoacán, or in the conduct before the explosion (Stromboli) are key points of my current work. I am now involved in the GEMEX project. <p> the GEMEX project <a href="http://www.gemex-h2020.eu/index.php" target="_blank" class="btn btn-light"></a></p>
 </div>
 </div>
 <hr>
