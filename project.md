@@ -42,7 +42,7 @@ Seismic waves, their velocities and attenuation tell us about variable states of
 </div>
 <div class="col-12 col-sm-8">
     <h3>Volcanology</h3>
-    The characterization of volcanic-reservoir geometry and location at depth is of major importance in monitoring and understanding volcanic unrest. We currently develop new methods to better assess in particular the depth of these reservoir trhough the evaluation of the anisotropy and of the attenuation. How magmas move in crust during swarm in monogenetic field in Michoacán, or in the conduct before the explosion (Stromboli) are key points of my current work. I am now involved in <a href="http://www.gemex-h2020.eu/index.php?lang=en" target="_blank" > the GEMEX project</a>.
+    The characterization of volcanic-reservoir geometry and location at depth is of major importance in monitoring and understanding volcanic unrest. We currently develop new methods to better assess the depth of these reservoir, the anisotropy and the attenuation trhough joint inversion. How magmas move in crust during swarm in monogenetic field in Michoacán, or in the conduct before the explosion (Stromboli) are key points of my current work. I am now involved in <a href="http://www.gemex-h2020.eu/index.php?lang=en" target="_blank" > the GEMEX project</a>.
 </div>
 </div>
 <hr>
