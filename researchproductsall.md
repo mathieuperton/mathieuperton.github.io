@@ -5,7 +5,6 @@ use_fontawesome: true
 use_math: true
 ---
 
-<!DOCTYPE html>
 <html>
 
 
@@ -19,5 +18,4 @@ use_math: true
 
 </div>
 </div>
-</body>
 </html>
