@@ -4,18 +4,41 @@ layout: tab
 use_fontawesome: true
 use_math: true
 ---
-
 <html>
-
-
-<div class="dropdown">
-<button class="dropbtn">Réseaux sociaux</button>
-<div class="dropdown-content">
-
-<a href="https://www.facebook.com">Facebook</a> 
-<a href="https://www. instagram.com">Instagram</a>
-<a href="https://www.snapchat.com">Snapchat</a>
-
-</div>
-</div>
-</html>
+    <head>
+        <title>HTML / CSS : Menu déroulant</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="index.css">
+    </head>
+ <body>
+        <header>
+            <h1>Mon superbe menu déroulant</h1>
+            <ul class="menu">
+                <li class="menuList">
+                    Menu A
+                    <ul class="subMenu">
+                        <li><a href="#">Sous Menu A</a></li>
+                        <li><a href="#">Sous Menu B</a></li>
+                        <li><a href="#">Sous Menu C</a></li>
+                    </ul>
+                </li>
+                <li class="menuList">
+                    Menu B
+                    <ul class="subMenu">
+                        <li><a href="#">Sous Menu A</a></li>
+                        <li><a href="#">Sous Menu B</a></li>
+                        <li><a href="#">Sous Menu C</a></li>
+                    </ul>
+                </li>
+                <li class="menuList">
+                    Menu C
+                    <ul class="subMenu">
+                        <li><a href="#">Sous Menu A</a></li>
+                        <li><a href="#">Sous Menu B</a></li>
+                        <li><a href="#">Sous Menu C</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </header>
+    </body>
+</html> 
