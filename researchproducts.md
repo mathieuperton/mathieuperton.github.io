@@ -1,6 +1,6 @@
 ---
 title: Research Products
-layout: menu_der
+layout: tab
 use_fontawesome: true
 use_math: true
 ---
