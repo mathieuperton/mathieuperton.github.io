@@ -19,7 +19,7 @@ Seismic waves, their velocities and attenuation tell us about variable states of
 <div class="col-12 col-sm-8">
     <h3>Fiber Optic Seismology</h3>
     <p><span class="bold">Goal:</span> Distributed Acoustic Sensing (DAS) can transform the already existing underground network of fiber-optic cables essential to modern life as arrays of thousands of seismometers  with a measurement density on the order of meters and so, in a cost-effective way. DAS relies on coherent optical time-domain reflectometry to precisely measure the amplitude and phase of vibrations along a fiber. This new type of data for seismologists is offering many new opportunities for research. We want to explore its potential for ultra-high resolution imaging, microzonation in urban areas and possibly for landlside and volcano monitoring. (Figure is from Lelouch et al., 2019 <a href="https://drive.google.com/open?id=1bzbStvLJYwzY00gzEFlIdumZZ4QQ6MH6" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>).   </p>
-
+  <p><span class="bold">Main collaborator:</span> Zack Spica <a href=https://scholar.google.be/citations?user=OO3GY2YAAAAJ&hl=en" target="_blank" class="btn btn-light"><i class="fab fa-google"></i> Scholar</a></p>
 </div>
 </div>
 <hr>
@@ -35,7 +35,6 @@ Seismic waves, their velocities and attenuation tell us about variable states of
     <h3>Site effect assessment</h3>
     <!--<p class="italic">2017 - Present</p>-->
     <p><span class="bold">Goal:</span> Accurate ground-motion prediction requires detailed site effect estimation. One of the most widely used techniques to estimate seismic site response involves analyzing the Horizontal to Vertical Spectral Ratio (HVSR) of ambient seismic field recordings. Based on the diffuse field assumption (DFA), the H/V of the auto-correlated signal is linked to the ratio of the imaginary parts of the 1D Green's function components and allows naturally for soil structure characterization. The aim of the project is to apply the H/V method to numerous situations and make it more robust, effective and able to characterize finely the soil structure by using support of other methods. Currently, we are pushing forward the method to image structure as deep as the moho discontinuity. </p>
-    <p><span class="bold">Main collaborator:</span> Mathieu Perton <a href="https://scholar.google.be/citations?user=KjoEGVQAAAAJ&hl=en&inst=5746887945952177237&oi=ao" target="_blank" class="btn btn-light"><i class="fab fa-google"></i> Scholar</a></p>
 </div>
 </div>
 <hr>
