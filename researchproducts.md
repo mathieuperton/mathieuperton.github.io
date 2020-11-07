@@ -79,8 +79,8 @@ body {
 <body>
 
 <div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#news">News</a>
+  <a href="#home">Surface wave tomography of Mexico</a>
+  <a href="#news">Volume of Volcan Calculation</a>
   <div class="dropdown">
     <button class="dropbtn">Dropdown 
       <i class="fa fa-caret-down"></i>
@@ -93,80 +93,9 @@ body {
   </div> 
 </div>
 
-<h3>Dropdown Menu inside a Navigation Bar</h3>
-<p>Hover over the "Dropdown" link to see the dropdown menu.</p>
-
 </body>
-</html>
-
-<html>
-<head>
-<style>
-
-.dropbtn {
- background-color: black;
- color: white;
- padding: 16px;
- font-size: 16px;
- border: none;
-}
-
-.dropdown {
- position: relative;
- display: inline-block;
-}
-
-.dropdown-content {
- display: none;
- position: absolute;
- background-color: lightgrey;
- min-width: 200px;
- z-index: 1;
-}
-
-.dropdown-content a {
- color: black;
- padding: 12px 16px;
- text-decoration: none;
- display: block;
-}
-
-.dropdown-content a:hover {background-color: white;}
-.dropdown:hover.dropdown-content {display: block;}
-.dropdown:hover.dropbtn {background-color: grey;}
-
-</style>
-</head>
 
 
-
-<div class="dropdown">
-<button class="dropbtn">Réseaux sociaux</button>
-<div class="dropdown-content">
-
-<a href="https://www.facebook.com">Facebook</a> 
-<a href="https://www. instagram.com">Instagram</a>
-<a href="https://www.snapchat.com">Snapchat</a>
-
-</div>
-</div>
-</html>
-
-
-<div class="navbar1">
-  <a href="#home">Surface wave tomography of Mexico</a>
-  <a href="#news">Volume of Volcan Calculation</a>
-  <div class="dropdown">
-    <button class="dropbtn">Dropdown 
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="#">Data 2 HV Computing</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
-    </div>
-  </div> 
-</div>
 
 
 <!-- Research -->
@@ -221,6 +150,7 @@ Zack Spica, <a href="http://www.igum.unam.mx/mperton/" target="_blank">Mathieu P
 <a href="http://marcocalo.weebly.com/" target="_blank">Marco Calò</a>, <a href="https://scholar.google.es/citations?user=8GVIsq8AAAAJ&hl=es" target="_blank">Denis Legrand</a>, Francisco Córdoba Montiel and  <a href="http://www.geofisica.unam.mx/sismologia/index.php/users/view/6" target="_blank">Arturo Iglesias</a>
 </div>
 
+</html>
 
 
 
