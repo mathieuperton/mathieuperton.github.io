@@ -5,12 +5,12 @@ use_fontawesome: true
 use_math: true
 ---
 
-.navbar {
+.navbar1 {
   overflow: hidden;
   background-color: #333;
 }
 
-.navbar a {
+.navbar1 a {
   float: left;
   font-size: 16px;
   color: white;
@@ -35,7 +35,7 @@ use_math: true
   margin: 0;
 }
 
-.navbar a:hover, .dropdown:hover .dropbtn {
+.navbar1 a:hover, .dropdown:hover .dropbtn {
   background-color: red;
 }
 
@@ -66,7 +66,7 @@ use_math: true
 }
 
 
-<div class="navbar">
+<div class="navbar1">
   <a href="#home">Surface wave tomography of Mexico</a>
   <a href="#news">Volume of Volcan Calculation</a>
   <div class="dropdown">
