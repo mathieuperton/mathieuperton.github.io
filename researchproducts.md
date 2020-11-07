@@ -67,21 +67,6 @@ div.tabs > div:target > div, :target #default2 > div {
 div.tabs :target {
   outline: none}
 
-
-.navbar {
-  overflow: hidden;
-  background-color: #333;
-}
-
-.navbar a {
-  float: left;
-  font-size: 16px;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
 .dropdown {
   float: left;
   overflow: hidden;
@@ -96,10 +81,6 @@ div.tabs :target {
   background-color: inherit;
   font-family: inherit;
   margin: 0;
-}
-
-.navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
 }
 
 .dropdown-content {
