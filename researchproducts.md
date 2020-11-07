@@ -16,7 +16,7 @@ body {
 }
 
 
-  <style type="text/css">
+  
 div.example {border: #603 dotted; padding: 0.6em; margin: 1em 2em}
 
 /* First example */
