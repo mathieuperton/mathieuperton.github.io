@@ -11,15 +11,7 @@ use_math: true
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
 
-
-  
-div.example {border: #603 dotted; padding: 0.6em; margin: 1em 2em}
-
-/* First example */
 div.items p:not(:target) {display: none}
 div.items p:target {display: block; outline: none}
 p.menu {margin: 0; padding: 0.4em; background: silver; color: black}
@@ -112,7 +104,7 @@ div.tabs :target {
 </head>
 <body>
 <div class="navbar">
-  <a href="#tomomex.html">Surface wave tomography of Mexico</a>
+  <a href="tomomex.html">Surface wave tomography of Mexico</a>
   <a href="#news">Volume of Volcan Calculation</a>
   <a href="#news">Data 2 HV</a>
   <div class="dropdown">
@@ -146,7 +138,6 @@ div.tabs :target {
       <div>... it works!</div>
      </div>
     </div>
-   </div>
 
 
 <!-- Research -->
