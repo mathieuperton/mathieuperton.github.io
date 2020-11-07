@@ -131,7 +131,7 @@ div.tabs :target {
 </head>
 <body>
 <div class="navbar">
-  <a href="#home">Surface wave tomography of Mexico</a>
+  <a href="#tomomex.html">Surface wave tomography of Mexico</a>
   <a href="#news">Volume of Volcan Calculation</a>
   <a href="#news">Data 2 HV</a>
   <div class="dropdown">
