@@ -4,7 +4,7 @@ layout: tab
 use_fontawesome: true
 use_math: true
 ---
-
+<head>
 <style>
 
 .dropbtn {
@@ -40,6 +40,9 @@ use_math: true
 .dropdown:hover.dropbtn {background-color: grey;}
 
 </style>
+</head>
+
+
 
 <div class="dropdown">
 <button class="dropbtn">Réseaux sociaux</button>
