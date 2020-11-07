@@ -67,14 +67,14 @@ use_math: true
 
 
 <div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#news">News</a>
+  <a href="#home">Surface wave tomography of Mexico</a>
+  <a href="#news">Volume of Volcan Calculation</a>
   <div class="dropdown">
     <button class="dropbtn">Dropdown 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
+      <a href="#">Data 2 HV Computing</a>
       <a href="#">Link 2</a>
       <a href="#">Link 3</a>
     </div>
