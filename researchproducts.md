@@ -95,7 +95,26 @@ body {
 
 </body>
 
+<div class=example>
+    <div class=tabs>
+     <div id=tab1> <a href="#tab1">Tab 1</a>
+      <div>One might well argue, that...</div>
+     </div>
 
+     <div id=tab2> <a href="#tab2">Tab 2</a>
+      <div>... 30 lines of CSS is rather a lot, and...</div>
+     </div>
+
+     <div id=tab3> <a href="#tab3">Tab 3</a>
+      <div>... that 2 should have been enough, but...</div>
+     </div>
+
+     <div id=default2> <a href="#default2">Default</a>
+      <div>... it works!</div>
+     </div>
+    </div>
+   </div>
+  </div>
 
 
 <!-- Research -->
