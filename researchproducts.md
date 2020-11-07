@@ -5,10 +5,6 @@ use_fontawesome: true
 use_math: true
 ---
 
-
-<!DOCTYPE html>
-<html>
-<head>
 <style>
 
 .dropbtn {
@@ -44,7 +40,6 @@ use_math: true
 .dropdown:hover.dropbtn {background-color: grey;}
 
 </style>
-</head>
 
 <div class="dropdown">
 <button class="dropbtn">Réseaux sociaux</button>
@@ -56,7 +51,6 @@ use_math: true
 
 </div>
 </div>
-</body>
 </html>
 
 
