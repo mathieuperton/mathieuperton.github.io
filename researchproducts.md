@@ -12,6 +12,21 @@ use_math: true
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 
+
+.navbar1 {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar1 a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
 div.items p:not(:target) {display: none}
 div.items p:target {display: block; outline: none}
 p.menu {margin: 0; padding: 0.4em; background: silver; color: black}
@@ -103,7 +118,7 @@ div.tabs :target {
 </style>
 </head>
 <body>
-<div class="navbar">
+<div class="navbar1">
   <a href="tomomex.html">Surface wave tomography of Mexico</a>
   <a href="#news">Volume of Volcan Calculation</a>
   <a href="#news">Data 2 HV</a>
@@ -121,10 +136,11 @@ div.tabs :target {
 
 </body>
 
-    <div class=tabs>
+    
+<div class=tabs>
      <div id=tab1> <a href="#tab1">Tab 1</a>
-      <div>One might well argue, that...</div>
-     </div>
+     <a href="tomomex.html">Surface wave tomography of Mexico</a>
+</div>
 
      <div id=tab2> <a href="#tab2">Tab 2</a>
       <div>... 30 lines of CSS is rather a lot, and...</div>
