@@ -10,6 +10,13 @@ use_math: true
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+<frameset border="0" rows=12%,88%>
+<frame name="haut" scrolling="no" src="all_res_prod.html">
+<frame name="menu" scrolling="auto" src="res1.html">
+</frameset>
+
 <style>
 
 
@@ -139,12 +146,11 @@ div.tabs :target {
     
 <div class=tabs>
      <div id=tab1> <a href="#tab1">Tab 1</a>
-     <a href="tomomex.html">Surface wave tomography of Mexico</a>
 </div>
 
-     <div id=tab2> <a href="#tab2">Tab 2</a>
-      <div>... 30 lines of CSS is rather a lot, and...</div>
-     </div>
+<div id=tab2> <a href="#tab2">Tab 2</a>
+  <div>... 30 lines of CSS is rather a lot, and...</div>
+</div>
 
      <div id=tab3> <a href="#tab3">Tab 3</a>
       <div>... that 2 should have been enough, but...</div>
@@ -207,8 +213,6 @@ correlations (C3). Geophysical Journal International, 206(3), pp.1795-1813, doi:
 Zack Spica, <a href="http://www.igum.unam.mx/mperton/" target="_blank">Mathieu Perton</a>, 
 <a href="http://marcocalo.weebly.com/" target="_blank">Marco Calò</a>, <a href="https://scholar.google.es/citations?user=8GVIsq8AAAAJ&hl=es" target="_blank">Denis Legrand</a>, Francisco Córdoba Montiel and  <a href="http://www.geofisica.unam.mx/sismologia/index.php/users/view/6" target="_blank">Arturo Iglesias</a>
 </div>
-
-</html>
 
 
 
