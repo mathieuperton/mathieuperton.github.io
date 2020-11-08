@@ -5,21 +5,6 @@ use_fontawesome: true
 use_math: true
 ---
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <frameset border="0" rows=12%,88%>
-<frame name="haut" scrolling="no" src="tomomex.html">
-<frameset border="0" cols=10%,90%>
-<frame name="menu" scrolling="auto" src="tomomex.html">
-<frame name="principal" src="tomomex.html">
-</frameset>
-</frameset>
-</head>
-</html>
-
-
 <style>
 .navbar1 {
   overflow: hidden;
@@ -40,7 +25,14 @@ use_math: true
 <div class="navbar1">
   <a href="tomomex.html">Surface wave tomography of Mexico</a>
   <a href="#news">Volume of Volcan Calculation</a>
-  <a href="#news">Data 2 HV</a>
+  <a href="#news2">Data 2 HV</a>
 </div> 
 
+<div class="items">
+  <p id="news">... item 1...
+  <p id="news2">... item 2...
+  <p id="item3">...
+  <p id="default"><!-- by default, show no text -->
+</div>
 </body>
+
