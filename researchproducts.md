@@ -5,21 +5,25 @@ use_fontawesome: true
 use_math: true
 ---
 
-
-<html>
-<head>
+<HTML>
+<HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<frameset border="0" rows=12%,88%>
-<frame name="haut" scrolling="no" src="tomomex.html">
-<frame name="menu" scrolling="auto" src="tomomex.html">
-</frameset>
-</head>
-<body DIR="LTR">
+	<TITLE>Mathieu Perton's homepage</TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 2.0  (Unix)">
+	<META NAME="AUTHOR" CONTENT="mathieu perton">
+	<META NAME="CREATED" CONTENT="20060127;19152200">
+	<META NAME="CHANGEDBY" CONTENT="mathieu perton">
+	<META NAME="CHANGED" CONTENT="20060214;21513800">
+	<frameset border="0" rows=12%,88%>
+	<frame name="haut" scrolling="no" src="tomomex.html">
+	<frameset border="0" cols=10%,90%>
+	<frame name="menu" scrolling="auto" src="tomomex.html">
+	<frame name="principal" src="tomomex.html">
+	</frameset>
+	</frameset>
+</HEAD>
+<BODY LANG="fr-FR" DIR="LTR">
 <P><BR><BR>
 </P>
 </BODY>
 </HTML>
-
-
