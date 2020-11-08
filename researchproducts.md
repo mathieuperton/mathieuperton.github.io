@@ -15,7 +15,6 @@ use_math: true
 <frame name="haut" scrolling="no" src="all_res_prod.html">
 <frame name="menu" scrolling="auto" src="res1.html">
 </frameset>
-</head>
 <style>
 
 
