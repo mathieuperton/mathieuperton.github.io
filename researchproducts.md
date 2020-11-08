@@ -20,7 +20,6 @@ use_math: true
   text-decoration: none;
 }
 </style>
-</head>
 <body>
 <div class="navbar1">
   <a href="tomomex.html">Surface wave tomography of Mexico</a>
