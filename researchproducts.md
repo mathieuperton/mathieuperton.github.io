@@ -8,12 +8,6 @@ use_math: true
 <html>
 <head>
 <META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-<TITLE>Mathieu Perton's homepage</TITLE>
-<META NAME="GENERATOR" CONTENT="OpenOffice.org 2.0  (Unix)">
-<META NAME="AUTHOR" CONTENT="mathieu perton">
-<META NAME="CREATED" CONTENT="20060127;19152200">
-<META NAME="CHANGEDBY" CONTENT="mathieu perton">
-<META NAME="CHANGED" CONTENT="20060214;21513800">
 <frameset border="0" rows=12%,88%>
 <frame name="haut" scrolling="no" src="tomomex.html">
 <frameset border="0" cols=10%,90%>
