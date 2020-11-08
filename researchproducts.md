@@ -11,12 +11,11 @@ use_math: true
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
 <frameset border="0" rows=12%,88%>
 <frame name="haut" scrolling="no" src="all_res_prod.html">
 <frame name="menu" scrolling="auto" src="res1.html">
 </frameset>
-
+</head>
 <style>
 
 
