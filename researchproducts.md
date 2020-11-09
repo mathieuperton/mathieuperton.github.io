@@ -4,6 +4,7 @@ layout: lop
 use_fontawesome: true
 use_math: true
 ---
+<html>
 
 <style>
 .navbar1 {
