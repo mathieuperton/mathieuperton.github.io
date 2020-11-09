@@ -10,7 +10,19 @@
     </div>
   </div>
 </div>
+{% if page.layout == 'tab2' %}
 
+<div class="jumbotron jumbotron-fluid header header-home">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-12 col-md-5 col-lg-4">
+         <h1>{{ page.title }}</h1>
+    <h2>{{ page.description }}</h2>
+      </div>
+    </div>
+  </div>
+</div>
 {% else %}
 
 <div class="jumbotron jumbotron-fluid header header-page">
