@@ -1,6 +1,6 @@
 ---
 title: Research Products
-layout: lop
+layout: default
 use_fontawesome: true
 use_math: true
 ---
