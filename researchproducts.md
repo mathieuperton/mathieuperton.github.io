@@ -39,3 +39,10 @@ use_math: true
 </div>
 </body>
 
+<frameset cols="25%,75%">
+<frame src="menu.htm" name="menu">
+<frame src="chapter1.htm" name="content">
+</frameset>
+
+</html>
+
