@@ -24,34 +24,14 @@ use_math: true
 <body>
 <div class="navbar1">
   <a href="tomomex.html">Surface wave tomography of Mexico</a>
-  <a href="#news">Volume of Volcan Calculation</a>
-  <a href="#news2">Data 2 HV</a>
+</div> 
+<div class="navbar1">
+  <a href="volcalume.html">Calculation of the Volume of Volcano</a>
+  <a href="HV.html">Seismic Data -> HV</a>
 </div> 
 
-<div class="items">
-  <p id="news">... 
-    <p item 1>
-      <p item 1>
-        <p item 1>
-          <p item 1>
-            v
-            <p item 1>
-              v
-              <p item 1>.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1.... item 1...
-    . item 1...
-    . item 1...
-    . item 1.... item 1.... item 1...
-    
-  <p id="news2">... item 2...
-  <p id="item3">...
-  <p id="default">...lets try <!-- by default, show no text -->
-</div>
 </body>
 
-<frameset cols="25%,75%">
-<frame src="menu.htm" name="menu">
-<frame src="chapter1.htm" name="content">
-</frameset>
 
 </html>
 
