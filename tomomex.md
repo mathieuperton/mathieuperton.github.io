@@ -1,6 +1,6 @@
 ---
 title: 
-layout: tab
+layout: tab2
 use_fontawesome: true
 use_math: true
 ---
