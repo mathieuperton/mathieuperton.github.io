@@ -1,6 +1,6 @@
 ---
-title: Tomografia Mexico
-layout: tab2
+title: 
+layout: tab
 use_fontawesome: true
 use_math: true
 ---
