@@ -1,6 +1,7 @@
 ---
 title: Research Products
 layout: tab
+sidebar: mydoc_sidebar
 use_fontawesome: true
 use_math: true
 ---
