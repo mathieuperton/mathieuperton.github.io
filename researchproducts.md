@@ -26,10 +26,11 @@ use_math: true
   <a href="tomomex.html">Surface wave tomography of Mexico</a>
 </div> 
 <div class="navbar1">
-  <a href="volcalume.html">Calculation of the Volume of Volcano</a>
   <a href="HV.html">Seismic Data -> HV</a>
 </div> 
-
+<div class="navbar1">
+  <a href="HV.html">Seismic Data -> HV</a>
+</div> 
 </body>
 
 
