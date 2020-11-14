@@ -1,5 +1,5 @@
 ---
-subtitle: tomomex 
+subtitle: Surface Wave Tomography of Mexico
 layout: tab
 use_fontawesome: true
 use_math: true
