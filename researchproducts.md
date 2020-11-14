@@ -23,23 +23,24 @@ use_math: true
 }
 </style>
 <body>
-  <div class="navbar1">
+
+<div class="navbar1">
   <div class="row content-row">
     <div class="col-12 col-sm-2">
       <img src="{{ site.baseurl }}/images/tomo.png">
-     </div>   
+    </div>   
     <div class="col-12 col-sm-10  col-sm-offset-2">
- <a href="tomomex.html"> 
-       <h3 >Surface wave tomography of Mexico</h3> 
-       An interface to view and extract the shear wave velocity structure below Mexico.</a>
-          </div>
+      <a href="tomomex.html"> 
+      <h3 >Surface wave tomography of Mexico</h3> 
+      An interface to view and extract the shear wave velocity structure below Mexico.</a>
+    </div>
   </div>
-   </div>
-  <hr>
+</div>
+
+<hr>
 
 
 <div class="navbar1">
-  <div class="container">
   <div class="row content-row">
     <div class="col-12 col-sm-2">
       <img src="{{ site.baseurl }}/images/Volcalume.jpg">
@@ -49,7 +50,6 @@ use_math: true
        <h3 >Calcul of the volumen of volcano</h3> 
        An interface to calculate the preeruptive surface and the volume of volcano or lava.</a>
        </div>
-      </div>
   </div>
 </div> 
 
