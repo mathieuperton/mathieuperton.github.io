@@ -23,9 +23,17 @@ use_math: true
 }
 </style>
 <body>
+  
+
 <div class="navbar1">
-  <a href="tomomex.html">Surface wave tomography of Mexico</a>
+<div class="row content-row">
+<div class="col-12 col-sm-4">
+    <img src="{{ site.baseurl }}/images/tomo.png">
+</div>
+<div class="col-12 col-sm-8 section">
+    <a href="tomomex.html"> <h3>Surface wave tomography of Mexico</h3></a>
 </div> 
+  <hr>
 <div class="navbar1">
   <a href="Volcalume.html"> Calcul of the volumen of volcano</a>
 </div> 
