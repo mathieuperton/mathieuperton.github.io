@@ -44,7 +44,7 @@ use_math: true
 <div class="navbar1">
   <div class="row content-row">
     <div class="col-12 col-sm-2">
-      <img src="{{ site.baseurl }}/images/Volcalume.png">
+      <img src="{{ site.baseurl }}/images/Volcalume.jpg">
   </div>    
     <div class="col-12 col-sm-10 section" style="text-align:justify;">
      <a href="Volcalume.html"> 
