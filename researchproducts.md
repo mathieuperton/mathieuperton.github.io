@@ -31,9 +31,10 @@ use_math: true
     <img src="{{ site.baseurl }}/images/tomo.png">
 </div>
 <div class="col-12 col-sm-8 section">
-  <center>
-    <a href="tomomex.html"> <h3>Surface wave tomography of Mexico</h3></a>
-    </center>
+<div class="centrer">
+  <a href="tomomex.html"> <h3>Surface wave tomography of Mexico</h3></a>
+    An interface to view and extract the shear wave velocity structure below Mexico.
+</div> 
 </div> 
   </div> 
   </div> 
