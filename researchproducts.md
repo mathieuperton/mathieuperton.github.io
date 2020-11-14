@@ -26,25 +26,24 @@ use_math: true
   
 
 <div class="navbar1">
-<div class="row content-row">
-<div class="col-12 col-sm-2">
-    <img src="{{ site.baseurl }}/images/tomo.png">
-</div>
-<div class="col-12 col-sm-8 section">
-<div class="centrer">
-  <a href="tomomex.html"> <h3>Surface wave tomography of Mexico</h3></a>
-    An interface to view and extract the shear wave velocity structure below Mexico.
+  <div class="row content-row">
+    <div class="col-12 col-sm-2">
+      <img src="{{ site.baseurl }}/images/tomo.png">
+    </div>
+    <div class="col-12 col-sm-8 section">
+      <div class="fb">
+       <a href="tomomex.html"> <h3>Surface wave tomography of Mexico</h3> An interface to view and extract the shear wave velocity structure below Mexico.</a>
+      </div> 
+    </div> 
+  </div>
 </div> 
-</div> 
-  </div> 
-  </div> 
   
   <hr>
 <div class="navbar1">
   <a href="Volcalume.html"> Calcul of the volumen of volcano</a>
 </div> 
 
-    <hr>
+<hr>
 <div class="navbar1">
   <a href="HV.html">Seismic Data -> HV</a>
 </div> 
