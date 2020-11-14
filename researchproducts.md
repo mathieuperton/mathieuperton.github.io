@@ -45,7 +45,6 @@ use_math: true
   <div class="row content-row">
     <div class="col-12 col-sm-2">
       <img src="{{ site.baseurl }}/images/Volcalume.png">
- 
     <div class="col-12 col-sm-10 section" style="text-align:justify;">
      <a href="Volcalume.html"> 
        <h3 >Calcul of the volumen of volcano</h3> 
