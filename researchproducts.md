@@ -42,7 +42,8 @@ use_math: true
 
 
 <div class="navbar1">
-  <div class="row content-row">
+  <div class="container">
+  <div class="row">
     <div class="col-12 col-sm-2">
       <img src="{{ site.baseurl }}/images/Volcalume.jpg">
   </div>    
@@ -51,6 +52,7 @@ use_math: true
        <h3 >Calcul of the volumen of volcano</h3> 
        An interface to calculate the preeruptive surface and the volume of volcano or lava.</a>
        </div>
+      </div>
   </div>
 </div> 
 
