@@ -33,15 +33,18 @@ use_math: true
 <div class="col-12 col-sm-8 section">
     <a href="tomomex.html"> <h3>Surface wave tomography of Mexico</h3></a>
 </div> 
+  </div> 
+  </div> 
+  
   <hr>
 <div class="navbar1">
   <a href="Volcalume.html"> Calcul of the volumen of volcano</a>
 </div> 
+    <hr>
 <div class="navbar1">
   <a href="HV.html">Seismic Data -> HV</a>
 </div> 
+  
 </body>
-
-
 </html>
 
