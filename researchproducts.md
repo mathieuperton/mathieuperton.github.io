@@ -46,7 +46,7 @@ use_math: true
     <div class="col-12 col-sm-2">
       <img src="{{ site.baseurl }}/images/Volcalume.jpg">
   </div>    
-    <div class="col-12 col-sm-10 section" style="text-align:justify;">
+    <div class="col-12 col-sm-10">
      <a href="Volcalume.html"> 
        <h3 >Calcul of the volumen of volcano</h3> 
        An interface to calculate the preeruptive surface and the volume of volcano or lava.</a>
