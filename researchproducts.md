@@ -30,10 +30,8 @@ use_math: true
     <div class="col-12 col-sm-2">
       <img src="{{ site.baseurl }}/images/tomo.png">
     </div>
-    <div class="col-12 col-sm-8 section">
-<p style="text-align:justify;">
-  <a href="tomomex.html"> <h3>Surface wave tomography of Mexico</h3> An interface to view and extract the shear wave velocity structure below Mexico.</a>
-      </p>
+    <div class="col-12 col-sm-10 section">
+  <a href="tomomex.html"> <h3 style="text-align:justify;">Surface wave tomography of Mexico</h3> An interface to view and extract the shear wave velocity structure below Mexico.</a>
       </div> 
     </div> 
   </div>
