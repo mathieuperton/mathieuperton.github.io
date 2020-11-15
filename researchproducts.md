@@ -31,7 +31,7 @@ use_math: true
     <div class="col-12 col-sm-10">
  <div class="navbar1">
      <a href="tomomex.html"> 
-      <h3 >Surface wave tomography of Mexico</h3> 
+      <h3 text-align: center>Surface wave tomography of Mexico</h3> 
       An interface to view and extract the shear wave velocity structure below Mexico.</a>
     </div>
   </div>
