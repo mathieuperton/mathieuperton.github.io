@@ -8,7 +8,7 @@ use_math: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-5 image-wrapper">
-    <img src="{{ site.baseurl }}/images/images/Volcalume.jpg">
+    <img src="{{ site.baseurl }}/images/Volcalume.jpg">
 </div>
 <div class="col-12 col-sm-7">
   <p style="text-align:justify;">
