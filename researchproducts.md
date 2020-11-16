@@ -47,7 +47,7 @@ use_math: true
     <div class="col-12 col-sm-10">
   <div class="navbar1">
    <a href="Volcalume.html"> 
-       <h3 >Calcul of the volumen of volcano</h3> 
+       Calcul of the volumen of volcano 
        An interface to calculate the preeruptive surface and the volume of volcano or lava.</a>
        </div>
   </div>
