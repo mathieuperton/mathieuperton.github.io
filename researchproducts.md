@@ -14,7 +14,7 @@ use_math: true
 }
 
 .navbar1 a {
-  float: left;
+  float: right;
   font-size: 16px;
   color: white;
   text-align: center;
