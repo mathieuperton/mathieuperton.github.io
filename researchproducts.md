@@ -24,11 +24,12 @@ use_math: true
 </style>
 <body>
   
-  <div class="navbar1">
+
 <div class="row content-row">
     <div class="col-12 col-sm-2">
       <img src="{{ site.baseurl }}/images/tomo.png">
     </div>   
+<div class="navbar1">
     <div class="col-12 col-sm-10">
        <a href="tomomex.html"> 
        <h3>Surface wave tomography of Mexico</h3> 
