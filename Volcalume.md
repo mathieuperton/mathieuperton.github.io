@@ -4,6 +4,8 @@ layout: tab
 use_fontawesome: true
 use_math: true
 ---
+<style>
+
 .encart {
     padding: 19px;
     border: solid 1px #eee;
@@ -16,6 +18,8 @@ use_math: true
 .encart-gauche {
     float: left;
 }
+</style>
+
 <div class="encart">
 Mon encart 1
 </div>
