@@ -1,6 +1,6 @@
 ---
 subtitle: Surface Wave Tomography of Mexico
-description:Research product
+description: Research product
 layout: tab
 use_fontawesome: true
 use_math: true
