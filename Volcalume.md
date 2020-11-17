@@ -4,7 +4,29 @@ layout: tab
 use_fontawesome: true
 use_math: true
 ---
+.encart {
+    padding: 19px;
+    border: solid 1px #eee;
+}
 
+.encart-droite {
+    float: right;
+}
+
+.encart-gauche {
+    float: left;
+}
+<div class="encart">
+Mon encart 1
+</div>
+
+<div class="encart encart-droite">
+Mon encart 2
+</div>
+
+<div class="encart encart-gauche">
+Mon encart 3
+</div>
 
 <div class="row content-row">
 <div class="col-12 col-sm-5 image-wrapper">
