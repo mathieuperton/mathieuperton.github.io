@@ -46,6 +46,6 @@ Historically, lava volumes were calculated from the area and the estimated mean 
 
 With the software provided here, we show that some of these artefacts are due to a bad evaluation of the contour and we propose an efficient and automatic method to additionally constrain the paleo topographies by considering the slope around the volcano or lavas and the actual topography. 
 The approach has been validated with the Paricutin Volcano case by comparing the real paleo topography with the one assessed. 
-We already applied the method to several cases (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377027318301197"> paper,</a>, (<a href="https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/132/11-12/2455/583462"> paper,</a>), among which an imbricated volcanic complex (La Nieve - Michoacan) for which we revealed several paleo-topographies (illustrated picture).
+We already applied the method to several cases (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377027318301197"> paper</a>, <a href="https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/132/11-12/2455/583462"> paper</a>), among which an imbricated volcanic complex (La Nieve - Michoacan) for which we revealed several paleo-topographies (illustrated picture).
 </p>
 </div>
