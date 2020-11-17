@@ -23,7 +23,6 @@ use_math: true
 <div class="encart">
 Mon encart 1
 </div>
-
 <div class="encart encart-droite">
 Mon encart 2
 </div>
