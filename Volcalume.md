@@ -20,3 +20,7 @@ With the software provided here, we show that some of these artefacts are due to
 The approach has been validated with the Paricutin Volcano case by comparing the real paleo topography with the one assessed. 
 We already applied the method to several cases (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377027318301197">paper</a>, <a href="https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/132/11-12/2455/583462">paper</a>), among which an imbricated volcanic complex (La Nieve - Michoacan) for which we revealed several paleo-topographies (illustrated picture).
 </p>
+
+
+<h4><u>Download the program </u></h4>
+The program is a compiled MATLAB executable for <a href="releases/Volcalume.rar"><i class="fa Windows"></i>Windows</a>, which will install both the MATLAB runtime (if required) and the program itself. 
