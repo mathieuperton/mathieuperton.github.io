@@ -23,4 +23,4 @@ We already applied the method to several cases (<a href="https://www.sciencedire
 
 
 <h4><u>Download the program </u></h4>
-The program is a compiled MATLAB executable for <a href="releases/Volcalume.rar"><i class="fa Windows"></i>Windows</a>, which will install both the MATLAB runtime (if required) and the program itself. 
+The program is a compiled MATLAB executable for <a href="{{ site.baseurl }}/releases/Volcalume.rar"><i class="fa Windows"></i>Windows</a>, which will install both the MATLAB runtime (if required) and the program itself. 
